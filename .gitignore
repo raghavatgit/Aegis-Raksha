@@ -1,0 +1,12 @@
+.gradle/
+build/
+.dart_tool/
+.idea/
+*.apk
+*.pptx
+*.pdf
+*.log
+
+ephemeral/
+*.env
+*.env.*
